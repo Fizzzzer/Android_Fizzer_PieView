@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Doraemon/Documents/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_1f24da2d3426e6655c8f27cee847065a525cc79e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_64c0bae2bad681867557f726f802cc310adcb24f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_20cb2aa414679c0504028d8467dbdccedc93dd5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_7e2d0ef2ef436b8f546c129eafbac3d14311ae24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_559d879d11df6c68b849c67bc87328553555523d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_3b3694b192466bd5601f266724b299b4bd8a2af0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_324f082e96160bc141e63990316f22bd427d33a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_6adc8408d6f1928c43035b34ab97e3516a3e0af1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_481609ce9ba5e78e41fb41a7b551ebcdc0ab296e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_c0b3e15085be98befd0978bea1f2a7e87bee8b72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ad8c8a7cb4f1c4bb6c053f9c43455ab7d7c22246">
+        <dex dex="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_10f1725627f6d9d0e403d7a411d931d2dc617009/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_08cb1a069616c10b3f4a7e6a2447d11cd66ab9ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_8781b7c87324cc01b2393bb024f2e8e2f08f43ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b46ee834c0ae9a1b4c93880a3af629ec69bac346">
+        <dex dex="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d29263236d5f35bf619329a82f64ed5d91326f6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_ec31b8a0df381474ec37e1fb5c11787fd9c27928/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_f51b18d4f676bf342834a1fda4e27221d2609538/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/Doraemon/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_b134a214084f83c1d148224b7e9d9245fef6c0e1/classes.dex" />
+    </item>
+
+</items>
